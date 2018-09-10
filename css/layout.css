@@ -24,4 +24,19 @@
 
 /* Posititoning Classes */
 
+.column {
+  display: inline-block;
+  width: 100%;
+}
 
+.small {
+  
+}
+
+.med {
+  
+}
+
+.large {
+  
+}
